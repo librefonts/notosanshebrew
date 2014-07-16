@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name=".null"/><!-- &lt;control> -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xa0" name="space"/><!-- NO-BREAK SPACE -->
+      <map code="0x591" name="uni0591"/><!-- HEBREW ACCENT ETNAHTA -->
+      <map code="0x592" name="uni0592"/><!-- HEBREW ACCENT SEGOL -->
+      <map code="0x593" name="uni0593"/><!-- HEBREW ACCENT SHALSHELET -->
+      <map code="0x594" name="uni0594"/><!-- HEBREW ACCENT ZAQEF QATAN -->
+      <map code="0x595" name="uni0595"/><!-- HEBREW ACCENT ZAQEF GADOL -->
+      <map code="0x596" name="uni0596"/><!-- HEBREW ACCENT TIPEHA -->
+      <map code="0x597" name="uni0597"/><!-- HEBREW ACCENT REVIA -->
+      <map code="0x598" name="uni0598"/><!-- HEBREW ACCENT ZARQA -->
+      <map code="0x599" name="uni0599"/><!-- HEBREW ACCENT PASHTA -->
+      <map code="0x59a" name="uni059A"/><!-- HEBREW ACCENT YETIV -->
+      <map code="0x59b" name="uni059B"/><!-- HEBREW ACCENT TEVIR -->
+      <map code="0x59c" name="uni059C"/><!-- HEBREW ACCENT GERESH -->
+      <map code="0x59d" name="uni059D"/><!-- HEBREW ACCENT GERESH MUQDAM -->
+      <map code="0x59e" name="uni059E"/><!-- HEBREW ACCENT GERSHAYIM -->
+      <map code="0x59f" name="uni059F"/><!-- HEBREW ACCENT QARNEY PARA -->
+      <map code="0x5a0" name="uni05A0"/><!-- HEBREW ACCENT TELISHA GEDOLA -->
+      <map code="0x5a1" name="uni05A1"/><!-- HEBREW ACCENT PAZER -->
+      <map code="0x5a2" name="uni05A2"/><!-- HEBREW ACCENT ATNAH HAFUKH -->
+      <map code="0x5a3" name="uni05A3"/><!-- HEBREW ACCENT MUNAH -->
+      <map code="0x5a4" name="uni05A4"/><!-- HEBREW ACCENT MAHAPAKH -->
+      <map code="0x5a5" name="uni05A5"/><!-- HEBREW ACCENT MERKHA -->
+      <map code="0x5a6" name="uni05A6"/><!-- HEBREW ACCENT MERKHA KEFULA -->
+      <map code="0x5a7" name="uni05A7"/><!-- HEBREW ACCENT DARGA -->
+      <map code="0x5a8" name="uni05A8"/><!-- HEBREW ACCENT QADMA -->
+      <map code="0x5a9" name="uni05A9"/><!-- HEBREW ACCENT TELISHA QETANA -->
+      <map code="0x5aa" name="uni05AA"/><!-- HEBREW ACCENT YERAH BEN YOMO -->
+      <map code="0x5ab" name="uni05AB"/><!-- HEBREW ACCENT OLE -->
+      <map code="0x5ac" name="uni05AC"/><!-- HEBREW ACCENT ILUY -->
+      <map code="0x5ad" name="uni05AD"/><!-- HEBREW ACCENT DEHI -->
+      <map code="0x5ae" name="uni05AE"/><!-- HEBREW ACCENT ZINOR -->
+      <map code="0x5af" name="uni05AF"/><!-- HEBREW MARK MASORA CIRCLE -->
+      <map code="0x5b0" name="sheva"/><!-- HEBREW POINT SHEVA -->
+      <map code="0x5b1" name="hatafsegol"/><!-- HEBREW POINT HATAF SEGOL -->
+      <map code="0x5b2" name="hatafpatah"/><!-- HEBREW POINT HATAF PATAH -->
+      <map code="0x5b3" name="hatafqamats"/><!-- HEBREW POINT HATAF QAMATS -->
+      <map code="0x5b4" name="hiriq"/><!-- HEBREW POINT HIRIQ -->
+      <map code="0x5b5" name="tsere"/><!-- HEBREW POINT TSERE -->
+      <map code="0x5b6" name="segol"/><!-- HEBREW POINT SEGOL -->
+      <map code="0x5b7" name="patah"/><!-- HEBREW POINT PATAH -->
+      <map code="0x5b8" name="qamats"/><!-- HEBREW POINT QAMATS -->
+      <map code="0x5b9" name="holam"/><!-- HEBREW POINT HOLAM -->
+      <map code="0x5ba" name="uni05BA"/><!-- HEBREW POINT HOLAM HASER FOR VAV -->
+      <map code="0x5bb" name="qubuts"/><!-- HEBREW POINT QUBUTS -->
+      <map code="0x5bc" name="dagesh"/><!-- HEBREW POINT DAGESH OR MAPIQ -->
+      <map code="0x5bd" name="meteg"/><!-- HEBREW POINT METEG -->
+      <map code="0x5be" name="maqaf"/><!-- HEBREW PUNCTUATION MAQAF -->
+      <map code="0x5bf" name="rafe"/><!-- HEBREW POINT RAFE -->
+      <map code="0x5c0" name="paseq"/><!-- HEBREW PUNCTUATION PASEQ -->
+      <map code="0x5c1" name="shindot"/><!-- HEBREW POINT SHIN DOT -->
+      <map code="0x5c2" name="sindot"/><!-- HEBREW POINT SIN DOT -->
+      <map code="0x5c3" name="sofpasuq"/><!-- HEBREW PUNCTUATION SOF PASUQ -->
+      <map code="0x5c4" name="upper_dot"/><!-- HEBREW MARK UPPER DOT -->
+      <map code="0x5c5" name="lowerdot"/><!-- HEBREW MARK LOWER DOT -->
+      <map code="0x5c6" name="uni05C6"/><!-- HEBREW PUNCTUATION NUN HAFUKHA -->
+      <map code="0x5c7" name="qamatsqatan"/><!-- HEBREW POINT QAMATS QATAN -->
+      <map code="0x5d0" name="alef"/><!-- HEBREW LETTER ALEF -->
+      <map code="0x5d1" name="bet"/><!-- HEBREW LETTER BET -->
+      <map code="0x5d2" name="gimel"/><!-- HEBREW LETTER GIMEL -->
+      <map code="0x5d3" name="dalet"/><!-- HEBREW LETTER DALET -->
+      <map code="0x5d4" name="he"/><!-- HEBREW LETTER HE -->
+      <map code="0x5d5" name="vav"/><!-- HEBREW LETTER VAV -->
+      <map code="0x5d6" name="zayin"/><!-- HEBREW LETTER ZAYIN -->
+      <map code="0x5d7" name="het"/><!-- HEBREW LETTER HET -->
+      <map code="0x5d8" name="tet"/><!-- HEBREW LETTER TET -->
+      <map code="0x5d9" name="yod"/><!-- HEBREW LETTER YOD -->
+      <map code="0x5da" name="finalkaf"/><!-- HEBREW LETTER FINAL KAF -->
+      <map code="0x5db" name="kaf"/><!-- HEBREW LETTER KAF -->
+      <map code="0x5dc" name="lamed"/><!-- HEBREW LETTER LAMED -->
+      <map code="0x5dd" name="finalmem"/><!-- HEBREW LETTER FINAL MEM -->
+      <map code="0x5de" name="mem"/><!-- HEBREW LETTER MEM -->
+      <map code="0x5df" name="finalnun"/><!-- HEBREW LETTER FINAL NUN -->
+      <map code="0x5e0" name="nun"/><!-- HEBREW LETTER NUN -->
+      <map code="0x5e1" name="samekh"/><!-- HEBREW LETTER SAMEKH -->
+      <map code="0x5e2" name="ayin"/><!-- HEBREW LETTER AYIN -->
+      <map code="0x5e3" name="finalpe"/><!-- HEBREW LETTER FINAL PE -->
+      <map code="0x5e4" name="pe"/><!-- HEBREW LETTER PE -->
+      <map code="0x5e5" name="finaltsadi"/><!-- HEBREW LETTER FINAL TSADI -->
+      <map code="0x5e6" name="tsadi"/><!-- HEBREW LETTER TSADI -->
+      <map code="0x5e7" name="qof"/><!-- HEBREW LETTER QOF -->
+      <map code="0x5e8" name="resh"/><!-- HEBREW LETTER RESH -->
+      <map code="0x5e9" name="shin"/><!-- HEBREW LETTER SHIN -->
+      <map code="0x5ea" name="tav"/><!-- HEBREW LETTER TAV -->
+      <map code="0x5f0" name="vavvav"/><!-- HEBREW LIGATURE YIDDISH DOUBLE VAV -->
+      <map code="0x5f1" name="vavyod"/><!-- HEBREW LIGATURE YIDDISH VAV YOD -->
+      <map code="0x5f2" name="yodyod"/><!-- HEBREW LIGATURE YIDDISH DOUBLE YOD -->
+      <map code="0x5f3" name="geresh"/><!-- HEBREW PUNCTUATION GERESH -->
+      <map code="0x5f4" name="gershayim"/><!-- HEBREW PUNCTUATION GERSHAYIM -->
+      <map code="0x20aa" name="sheqel"/><!-- NEW SHEQEL SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfb1d" name="uniFB1D"/><!-- HEBREW LETTER YOD WITH HIRIQ -->
+      <map code="0xfb1e" name="uniFB1E"/><!-- HEBREW POINT JUDEO-SPANISH VARIKA -->
+      <map code="0xfb1f" name="yodyod_patah"/><!-- HEBREW LIGATURE YIDDISH YOD YOD PATAH -->
+      <map code="0xfb20" name="alternativeayin"/><!-- HEBREW LETTER ALTERNATIVE AYIN -->
+      <map code="0xfb21" name="alefwide"/><!-- HEBREW LETTER WIDE ALEF -->
+      <map code="0xfb22" name="daletwide"/><!-- HEBREW LETTER WIDE DALET -->
+      <map code="0xfb23" name="hewide"/><!-- HEBREW LETTER WIDE HE -->
+      <map code="0xfb24" name="kafwide"/><!-- HEBREW LETTER WIDE KAF -->
+      <map code="0xfb25" name="lamedwide"/><!-- HEBREW LETTER WIDE LAMED -->
+      <map code="0xfb26" name="finalmemwide"/><!-- HEBREW LETTER WIDE FINAL MEM -->
+      <map code="0xfb27" name="reshwide"/><!-- HEBREW LETTER WIDE RESH -->
+      <map code="0xfb28" name="tavwide"/><!-- HEBREW LETTER WIDE TAV -->
+      <map code="0xfb29" name="alt_plussign"/><!-- HEBREW LETTER ALTERNATIVE PLUS SIGN -->
+      <map code="0xfb2a" name="shinshindot"/><!-- HEBREW LETTER SHIN WITH SHIN DOT -->
+      <map code="0xfb2b" name="shinsindot"/><!-- HEBREW LETTER SHIN WITH SIN DOT -->
+      <map code="0xfb2c" name="shindageshshindot"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT -->
+      <map code="0xfb2d" name="shindageshsindot"/><!-- HEBREW LETTER SHIN WITH DAGESH AND SIN DOT -->
+      <map code="0xfb2e" name="alefpatah"/><!-- HEBREW LETTER ALEF WITH PATAH -->
+      <map code="0xfb2f" name="alefqamats"/><!-- HEBREW LETTER ALEF WITH QAMATS -->
+      <map code="0xfb30" name="alefmapiq"/><!-- HEBREW LETTER ALEF WITH MAPIQ -->
+      <map code="0xfb31" name="betdagesh"/><!-- HEBREW LETTER BET WITH DAGESH -->
+      <map code="0xfb32" name="gimeldagesh"/><!-- HEBREW LETTER GIMEL WITH DAGESH -->
+      <map code="0xfb33" name="daletdagesh"/><!-- HEBREW LETTER DALET WITH DAGESH -->
+      <map code="0xfb34" name="hedagesh"/><!-- HEBREW LETTER HE WITH MAPIQ -->
+      <map code="0xfb35" name="vavdagesh"/><!-- HEBREW LETTER VAV WITH DAGESH -->
+      <map code="0xfb36" name="zayindagesh"/><!-- HEBREW LETTER ZAYIN WITH DAGESH -->
+      <map code="0xfb38" name="tetdagesh"/><!-- HEBREW LETTER TET WITH DAGESH -->
+      <map code="0xfb39" name="yoddagesh"/><!-- HEBREW LETTER YOD WITH DAGESH -->
+      <map code="0xfb3a" name="finalkafdagesh"/><!-- HEBREW LETTER FINAL KAF WITH DAGESH -->
+      <map code="0xfb3b" name="kafdagesh"/><!-- HEBREW LETTER KAF WITH DAGESH -->
+      <map code="0xfb3c" name="lameddagesh"/><!-- HEBREW LETTER LAMED WITH DAGESH -->
+      <map code="0xfb3e" name="memdagesh"/><!-- HEBREW LETTER MEM WITH DAGESH -->
+      <map code="0xfb40" name="nundagesh"/><!-- HEBREW LETTER NUN WITH DAGESH -->
+      <map code="0xfb41" name="samekhdagesh"/><!-- HEBREW LETTER SAMEKH WITH DAGESH -->
+      <map code="0xfb43" name="finalpedagesh"/><!-- HEBREW LETTER FINAL PE WITH DAGESH -->
+      <map code="0xfb44" name="pedagesh"/><!-- HEBREW LETTER PE WITH DAGESH -->
+      <map code="0xfb46" name="tsadidagesh"/><!-- HEBREW LETTER TSADI WITH DAGESH -->
+      <map code="0xfb47" name="qofdagesh"/><!-- HEBREW LETTER QOF WITH DAGESH -->
+      <map code="0xfb48" name="reshdagesh"/><!-- HEBREW LETTER RESH WITH DAGESH -->
+      <map code="0xfb49" name="shindagesh"/><!-- HEBREW LETTER SHIN WITH DAGESH -->
+      <map code="0xfb4a" name="tavdagesh"/><!-- HEBREW LETTER TAV WITH DAGESH -->
+      <map code="0xfb4b" name="vavholam"/><!-- HEBREW LETTER VAV WITH HOLAM -->
+      <map code="0xfb4c" name="betrafe"/><!-- HEBREW LETTER BET WITH RAFE -->
+      <map code="0xfb4d" name="kafrafe"/><!-- HEBREW LETTER KAF WITH RAFE -->
+      <map code="0xfb4e" name="perafe"/><!-- HEBREW LETTER PE WITH RAFE -->
+      <map code="0xfb4f" name="aleflamed"/><!-- HEBREW LIGATURE ALEF LAMED -->
+      <map code="0xfeff" name=".null"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

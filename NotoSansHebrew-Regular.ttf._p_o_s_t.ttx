@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-154"/>
+    <underlineThickness value="102"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni0591"/>
+      <psName name="uni0592"/>
+      <psName name="uni0593"/>
+      <psName name="uni0594"/>
+      <psName name="uni0595"/>
+      <psName name="uni0596"/>
+      <psName name="uni0597"/>
+      <psName name="uni0598"/>
+      <psName name="uni0599"/>
+      <psName name="uni059A"/>
+      <psName name="uni059B"/>
+      <psName name="uni059C"/>
+      <psName name="uni059D"/>
+      <psName name="uni059E"/>
+      <psName name="uni059F"/>
+      <psName name="uni05A0"/>
+      <psName name="uni05A1"/>
+      <psName name="uni05A2"/>
+      <psName name="uni05A3"/>
+      <psName name="uni05A4"/>
+      <psName name="uni05A5"/>
+      <psName name="uni05A6"/>
+      <psName name="uni05A7"/>
+      <psName name="uni05A8"/>
+      <psName name="uni05A9"/>
+      <psName name="uni05AA"/>
+      <psName name="uni05AB"/>
+      <psName name="uni05AC"/>
+      <psName name="uni05AD"/>
+      <psName name="uni05AE"/>
+      <psName name="uni05AF"/>
+      <psName name="sheva"/>
+      <psName name="hatafsegol"/>
+      <psName name="hatafpatah"/>
+      <psName name="hatafqamats"/>
+      <psName name="hiriq"/>
+      <psName name="tsere"/>
+      <psName name="segol"/>
+      <psName name="patah"/>
+      <psName name="qamats"/>
+      <psName name="holam"/>
+      <psName name="uni05BA"/>
+      <psName name="qubuts"/>
+      <psName name="dagesh"/>
+      <psName name="meteg"/>
+      <psName name="maqaf"/>
+      <psName name="rafe"/>
+      <psName name="paseq"/>
+      <psName name="shindot"/>
+      <psName name="sindot"/>
+      <psName name="sofpasuq"/>
+      <psName name="upper_dot"/>
+      <psName name="lowerdot"/>
+      <psName name="uni05C6"/>
+      <psName name="qamatsqatan"/>
+      <psName name="alef"/>
+      <psName name="bet"/>
+      <psName name="gimel"/>
+      <psName name="dalet"/>
+      <psName name="he"/>
+      <psName name="vav"/>
+      <psName name="zayin"/>
+      <psName name="het"/>
+      <psName name="tet"/>
+      <psName name="yod"/>
+      <psName name="finalkaf"/>
+      <psName name="kaf"/>
+      <psName name="lamed"/>
+      <psName name="finalmem"/>
+      <psName name="mem"/>
+      <psName name="finalnun"/>
+      <psName name="nun"/>
+      <psName name="samekh"/>
+      <psName name="ayin"/>
+      <psName name="finalpe"/>
+      <psName name="pe"/>
+      <psName name="finaltsadi"/>
+      <psName name="tsadi"/>
+      <psName name="qof"/>
+      <psName name="resh"/>
+      <psName name="shin"/>
+      <psName name="tav"/>
+      <psName name="vavvav"/>
+      <psName name="vavyod"/>
+      <psName name="yodyod"/>
+      <psName name="geresh"/>
+      <psName name="gershayim"/>
+      <psName name="sheqel"/>
+      <psName name="uniFB1D"/>
+      <psName name="uniFB1E"/>
+      <psName name="yodyod_patah"/>
+      <psName name="alternativeayin"/>
+      <psName name="alefwide"/>
+      <psName name="daletwide"/>
+      <psName name="hewide"/>
+      <psName name="kafwide"/>
+      <psName name="lamedwide"/>
+      <psName name="finalmemwide"/>
+      <psName name="reshwide"/>
+      <psName name="tavwide"/>
+      <psName name="alt_plussign"/>
+      <psName name="shinshindot"/>
+      <psName name="shinsindot"/>
+      <psName name="shindageshshindot"/>
+      <psName name="shindageshsindot"/>
+      <psName name="alefpatah"/>
+      <psName name="alefqamats"/>
+      <psName name="alefmapiq"/>
+      <psName name="betdagesh"/>
+      <psName name="gimeldagesh"/>
+      <psName name="daletdagesh"/>
+      <psName name="hedagesh"/>
+      <psName name="vavdagesh"/>
+      <psName name="zayindagesh"/>
+      <psName name="tetdagesh"/>
+      <psName name="yoddagesh"/>
+      <psName name="finalkafdagesh"/>
+      <psName name="kafdagesh"/>
+      <psName name="lameddagesh"/>
+      <psName name="memdagesh"/>
+      <psName name="nundagesh"/>
+      <psName name="samekhdagesh"/>
+      <psName name="finalpedagesh"/>
+      <psName name="pedagesh"/>
+      <psName name="tsadidagesh"/>
+      <psName name="qofdagesh"/>
+      <psName name="reshdagesh"/>
+      <psName name="shindagesh"/>
+      <psName name="tavdagesh"/>
+      <psName name="vavholam"/>
+      <psName name="betrafe"/>
+      <psName name="kafrafe"/>
+      <psName name="perafe"/>
+      <psName name="aleflamed"/>
+      <psName name="lamedholamdagesh"/>
+      <psName name="lamedholam"/>
+      <psName name="finalkafqamats"/>
+      <psName name="finalkafsheva"/>
+      <psName name="aleflamedhatafsegol"/>
+      <psName name="aleflamedsegol"/>
+      <psName name="aleflamedtsere"/>
+      <psName name="alternativelamed"/>
+      <psName name="alefdagesh"/>
+      <psName name="uni05B105BD"/>
+      <psName name="uni05B205BD"/>
+      <psName name="uni05B305BD"/>
+      <psName name="uni25CC"/>
+    </extraNames>
+  </post>
+
+</ttFont>
