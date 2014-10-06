@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Hebrew",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 12542,
+  "fonts": [
+    {
+      "name": "Noto Sans Hebrew",
+      "style": "normal",
+      "weight": 600,
+      "filename": "NotoSansHebrew-Bold.ttf",
+      "postScriptName": "NotoSansHebrew-Bold",
+      "fullName": "Noto Sans Hebrew Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Hebrew",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansHebrew-Regular.ttf",
+      "postScriptName": "NotoSansHebrew",
+      "fullName": "Noto Sans Hebrew",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
